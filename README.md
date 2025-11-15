@@ -201,7 +201,7 @@ xai-ddos-detection/
 
 ## 🚑 Contact
 
-For issues or contributions, [open an issue](https://github.com/SreekarSBS/XAI-IDS-IoT/issues) or contact the maintainers.
+For issues or contributions, [open an issue]() or contact the maintainers.
 
 ---
 
